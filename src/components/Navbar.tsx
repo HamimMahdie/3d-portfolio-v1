@@ -50,8 +50,10 @@ const Navbar = () => {
           href={`mailto:${portfolioProfile.email}`}
           className="navbar-connect"
           data-cursor="disable"
+          aria-label={portfolioProfile.email}
+          title={portfolioProfile.email}
         >
-          {portfolioProfile.email}
+          EMAIL
         </a>
         <ul>
           <li>

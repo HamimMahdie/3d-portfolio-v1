@@ -11,7 +11,7 @@ export const portfolioProfile = {
   email: "hamimmahdie2@gmail.com",
   linkedin: "https://www.linkedin.com/in/hamim-mahdie-5455ab1b2/",
   github: "https://github.com/HamimMahdie",
-  resumePath: "/Hamim_Mahdie_Resume_March_2026.pdf",
+  resumePath: "/resume.pdf",
 };
 
 export const portfolioStrengths = [
@@ -21,16 +21,16 @@ export const portfolioStrengths = [
     description:
       "I thrive where product, backend, and data meet. That means translating messy requirements into working software, stabilizing systems under pressure, and turning prototypes into tools people can actually rely on.",
     tags: [
-    "Easy to work with",
-    "Clear communication",
-    "Self-driven",
-    "Ownership",
-    "Team player",
-    "Positive collaboration",
-  ],
+      "Trusted collaborator",
+      "Clear communication",
+      "Self-driven",
+      "Ownership",
+      "Team player",
+      "Positive collaboration",
+    ],
   },
   {
-    title: "EASY TO WORK WITH",
+    title: "TRUSTED COLLABORATOR",
     subtitle: "Technical depth with communication people trust",
     description:
       "My best work is not just code shipped. It's bringing clarity, momentum, and reliability to a team. Leadership across campus roles sharpened how I communicate, unblock others, and take responsibility when outcomes matter.",
